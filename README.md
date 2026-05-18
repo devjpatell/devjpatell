@@ -47,6 +47,6 @@ Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI dataset across 5,600+ 
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/22thedevpatel-ln/)
-[Portfolio](https://devjpatell.github.io/)
-[GitHub](https://github.com/devjpatell)
+[LinkedIn](https://www.linkedin.com/in/22thedevpatel-ln/) |
+[Portfolio](https://devjpatell.github.io/) |
+[GitHub](https://github.com/devjpatell) |
