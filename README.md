@@ -29,6 +29,15 @@ AI-powered document assistant using Next.js, FastAPI, Hugging Face, and Pinecone
 Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI dataset across 5,600+ frames.
 
 ---
+<p align="center">
+  <a href="https://github.com/devjpatell/devjpatell/blob/main/Dev_Patel_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+
+  <a href="https://github.com/devjpatell/devjpatell/blob/main/Dev_Patel_Cover_Letter.docx">
+    <img src="https://img.shields.io/badge/Cover%20Letter-View%20DOCX-success?style=for-the-badge&logo=microsoftword" />
+  </a>
+</p>
 
 ## 🔥 GitHub Streak
 
