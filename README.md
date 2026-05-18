@@ -30,7 +30,7 @@ Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI dataset across 5,600+ 
 
 ---
 <p align="center">
-  <a href="https://github.com/devjpatell/devjpatell/blob/main/Dev_Patel_Resume.pdf">
+  <a href="Intern Resume_Dev Patel.pdf">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 
