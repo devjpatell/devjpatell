@@ -41,8 +41,8 @@ Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI driving data across 5,
 ## 📄 Resume Preview
 
 <p align="center">
-  <a href="Intern%20Resume_Dev%20Patel.pdf">
-    <img src="resume-preview.png" width="700" alt="Resume Preview"/>
+  <a href="Intern%20Resume_Dev%20Patel.pdf" target="_blank">
+    <img src="resume-preview.png" alt="Resume Preview" width="700"/>
   </a>
 </p>
 
@@ -51,8 +51,8 @@ Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI driving data across 5,
 ## 📝 Cover Letter Preview
 
 <p align="center">
-  <a href="Dev_Patel_Cover_Letter.pdf">
-    <img src="coverletter-preview.png" width="700" alt="Cover Letter Preview"/>
+  <a href="Dev_Patel_Cover_Letter.pdf" target="_blank">
+    <img src="coverletter-preview.png" alt="Cover Letter Preview" width="700"/>
   </a>
 </p>
 
