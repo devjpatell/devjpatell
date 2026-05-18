@@ -3,47 +3,67 @@
 Software Engineer & ML Enthusiast  
 MS Computer Science @ UT Arlington
 
+<p align="center">
+  <a href="Intern%20Resume_Dev%20Patel.pdf">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+  <a href="Dev_Patel_Cover_Letter.pdf">
+    <img src="https://img.shields.io/badge/Cover%20Letter-View%20PDF-green?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+  <a href="https://devjpatell.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=githubpages" />
+  </a>
+  <a href="https://www.linkedin.com/in/22thedevpatel-ln/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- Full-Stack Developer
-- AI & RAG Enthusiast
-- Building intelligent applications using Python, FastAPI, Next.js, and Generative AI
-- Interested in Machine Learning, Computer Vision, and scalable backend systems
+- Full-Stack Developer with experience in ASP.NET Core, Angular, Python, SQL, and REST APIs
+- AI & RAG Enthusiast building intelligent document-based systems
+- Interested in Machine Learning, Computer Vision, Generative AI, and scalable backend systems
+- Currently pursuing M.S. Computer Science at The University of Texas at Arlington
 
 ---
 
 ## 🛠 Tech Stack
 
-Python • ASP.NET Core • Angular • Next.js • FastAPI • SQL • Pinecone • Hugging Face • OpenCV • REST APIs
+Python • C# • ASP.NET Core • Angular • Next.js • FastAPI • SQL • Pinecone • Hugging Face • OpenCV • REST APIs • GitHub • Vercel • Render
 
 ---
 
 ## 🔥 Featured Projects
 
 ### AI-Powered RAG Document Assistant
-AI-powered document assistant using Next.js, FastAPI, Hugging Face, and Pinecone.
+Full-stack AI document assistant that allows users to upload PDF/TXT files and ask questions using document retrieval and AI-assisted responses.
+
+**Tech:** Next.js · FastAPI · Python · Hugging Face · Pinecone · Vercel · Render
 
 ### Multi-View Geometry: Classical vs Deep Feature Matching
-Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI dataset across 5,600+ frames.
+Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI driving data across 5,600+ frames for feature matching, fundamental matrix estimation, and camera pose recovery.
+
+**Tech:** Python · OpenCV · LightGlue · KITTI · RANSAC
 
 ---
-<p align="center">
-  <a href="Intern Resume_Dev Patel.pdf">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
 
-  <a href="Dev_Patel_Cover_Letter.pdf">
-    <img src="https://img.shields.io/badge/Cover%20Letter-View%20DOCX-success?style=for-the-badge&logo=microsoftword" />
-  </a>
-</p>
+## 📄 Professional Documents
+
+- 📘 [View Resume PDF](Intern%20Resume_Dev%20Patel.pdf)
+- 📝 [View Cover Letter PDF](Dev_Patel_Cover_Letter.pdf)
+
+---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=devjpatell&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -54,8 +74,10 @@ Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI dataset across 5,600+ 
   </picture>
 </p>
 
+---
+
 ## 🌐 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/22thedevpatel-ln/) |
 [Portfolio](https://devjpatell.github.io/) |
-[GitHub](https://github.com/devjpatell) |
+[GitHub](https://github.com/devjpatell)
