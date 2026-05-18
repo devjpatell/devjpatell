@@ -37,8 +37,13 @@ Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI dataset across 5,600+ 
 </p>
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/devjpatell/devjpatell/blob/output/github-contribution-grid-snake.svg)
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjpatell/devjpatell/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devjpatell/devjpatell/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devjpatell/devjpatell/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ## 🌐 Connect With Me
 
