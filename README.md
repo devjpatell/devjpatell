@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Dev Patel 👋
 
-<!--
-**devjpatell/devjpatell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer & ML Enthusiast  
+MS Computer Science @ UT Arlington
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Full-Stack Developer
+- AI & RAG Enthusiast
+- Building intelligent applications using Python, FastAPI, Next.js, and Generative AI
+- Interested in Machine Learning, Computer Vision, and scalable backend systems
+
+---
+
+## 🛠 Tech Stack
+
+Python • ASP.NET Core • Angular • Next.js • FastAPI • SQL • Pinecone • Hugging Face • OpenCV • REST APIs
+
+---
+
+## 🔥 Featured Projects
+
+### AI-Powered RAG Document Assistant
+AI-powered document assistant using Next.js, FastAPI, Hugging Face, and Pinecone.
+
+### Multi-View Geometry: Classical vs Deep Feature Matching
+Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI dataset across 5,600+ frames.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devjpatell&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjpatell&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_LINK)  
+[Portfolio](YOUR_PORTFOLIO_LINK)  
+[GitHub](https://github.com/devjpatell)
