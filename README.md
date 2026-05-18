@@ -3,21 +3,6 @@
 Software Engineer & ML Enthusiast  
 MS Computer Science @ UT Arlington
 
-<p align="center">
-  <a href="Intern%20Resume_Dev%20Patel.pdf">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
-  <a href="Dev_Patel_Cover_Letter.pdf">
-    <img src="https://img.shields.io/badge/Cover%20Letter-View%20PDF-green?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
-  <a href="https://devjpatell.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=githubpages" />
-  </a>
-  <a href="https://www.linkedin.com/in/22thedevpatel-ln/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -25,7 +10,7 @@ MS Computer Science @ UT Arlington
 - Full-Stack Developer with experience in ASP.NET Core, Angular, Python, SQL, and REST APIs
 - AI & RAG Enthusiast building intelligent document-based systems
 - Interested in Machine Learning, Computer Vision, Generative AI, and scalable backend systems
-- Currently pursuing M.S. Computer Science at The University of Texas at Arlington
+- Currently pursuing M.S. in Computer Science at The University of Texas at Arlington
 
 ---
 
@@ -38,21 +23,50 @@ Python • C# • ASP.NET Core • Angular • Next.js • FastAPI • SQL • P
 ## 🔥 Featured Projects
 
 ### AI-Powered RAG Document Assistant
-Full-stack AI document assistant that allows users to upload PDF/TXT files and ask questions using document retrieval and AI-assisted responses.
 
-**Tech:** Next.js · FastAPI · Python · Hugging Face · Pinecone · Vercel · Render
+Full-stack AI document assistant that allows users to upload PDF/TXT files and ask questions using Retrieval-Augmented Generation (RAG) concepts and intelligent document retrieval.
 
-### Multi-View Geometry: Classical vs Deep Feature Matching
-Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI driving data across 5,600+ frames for feature matching, fundamental matrix estimation, and camera pose recovery.
-
-**Tech:** Python · OpenCV · LightGlue · KITTI · RANSAC
+**Tech Stack:** Next.js · FastAPI · Python · Hugging Face · Pinecone · Vercel · Render
 
 ---
 
-## 📄 Professional Documents
+### Multi-View Geometry: Classical vs Deep Feature Matching
 
-- 📘 [View Resume PDF](Intern%20Resume_Dev%20Patel.pdf)
-- 📝 [View Cover Letter PDF](Dev_Patel_Cover_Letter.pdf)
+Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI driving data across 5,600+ frames for feature matching, fundamental matrix estimation, epipolar geometry, and camera pose recovery.
+
+**Tech Stack:** Python · OpenCV · LightGlue · KITTI · RANSAC
+
+---
+
+## 📄 Resume Preview
+
+<p align="center">
+  <a href="Intern%20Resume_Dev%20Patel.pdf">
+    <img src="resume-preview.png" width="700" alt="Resume Preview"/>
+  </a>
+</p>
+
+---
+
+## 📝 Cover Letter Preview
+
+<p align="center">
+  <a href="Dev_Patel_Cover_Letter.pdf">
+    <img src="coverletter-preview.png" width="700" alt="Cover Letter Preview"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devjpatell&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjpatell&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -78,6 +92,16 @@ Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI driving data across 5,
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/22thedevpatel-ln/) |
-[Portfolio](https://devjpatell.github.io/) |
-[GitHub](https://github.com/devjpatell)
+<p align="center">
+  <a href="https://www.linkedin.com/in/22thedevpatel-ln/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://devjpatell.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=githubpages" />
+  </a>
+
+  <a href="https://github.com/devjpatell">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
