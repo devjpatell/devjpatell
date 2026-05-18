@@ -30,16 +30,18 @@ Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI dataset across 5,600+ 
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devjpatell&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devjpatell&theme=tokyonight&hide_border=true" />
+</p>
+## 🐍 Contribution Snake
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjpatell&layout=compact&theme=tokyonight)
-
+![snake gif](https://github.com/devjpatell/devjpatell/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_LINK)  
-[Portfolio](YOUR_PORTFOLIO_LINK)  
+[LinkedIn](https://www.linkedin.com/in/22thedevpatel-ln/)
+[Portfolio](https://devjpatell.github.io/)
 [GitHub](https://github.com/devjpatell)
