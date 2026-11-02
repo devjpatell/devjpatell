@@ -1,13 +1,13 @@
 # Hi, I'm Dev Patel 👋
 
-Software Engineer & ML Enthusiast  
-MS Computer Science @ UT Arlington
+Software Engineer · .NET & Python · RAG / Applied AI  
+MS Computer Science @ UT Arlington (May 2027) · **Open to full-time SWE and AI/ML roles from June 2027**
 
 ---
 
 ## 🚀 About Me
 
-- Full-Stack Developer with experience in ASP.NET Core, Angular, Python, SQL, and REST APIs
+- Software engineer with 1.5 years building ASP.NET Core APIs, Angular UIs, and SQL workflows for two government platforms (Kaushal Darpan, NICSI); cut data-retrieval time ~30%
 - AI & RAG Enthusiast building intelligent document-based systems
 - Interested in Machine Learning, Computer Vision, Generative AI, and scalable backend systems
 - Currently pursuing M.S. in Computer Science at The University of Texas at Arlington
@@ -41,7 +41,7 @@ Benchmarked SIFT, ORB, SuperPoint, and LightGlue on KITTI driving data across 5,
 ## 📄 Resume Preview
 
 <p align="center">
-  <a href="Intern%20Resume_Dev%20Patel.pdf" target="_blank">
+  <a href="Dev_Patel_Resume.pdf" target="_blank">
     <img src="resume-preview.png" alt="Resume Preview" width="700"/>
   </a>
 </p>
